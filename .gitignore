@@ -1,0 +1,21 @@
+# Python virtual environment
+myproject-env/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Log files
+*.log
+
+# Editor/IDE specific files (uncomment if you use them)
+#.vscode/
+#.sublime-workspace
+#.idea/
